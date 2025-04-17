@@ -17,7 +17,7 @@ a foldable Martini3 prototype on the basis of ProMPT
   - optimize Multiple-minimas BBBB dihedral potential, and extend it to include sheet structure.
 
 
-** highly Welcome collaboration to develop transferable foldable Martini protein model!!! **
+## highly Welcome collaboration to develop transferable foldable Martini protein model!!!
 
 
 ### Reference 

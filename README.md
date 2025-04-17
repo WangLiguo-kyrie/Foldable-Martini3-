@@ -15,7 +15,9 @@ a foldable Martini3 prototype on the basis of ProMPT
   - optimize backbone dipole representation;
   - calibrate interaction between backbone dipole and other Martini3 beads, allowing response to environment;
   - optimize Multiple-minimas BBBB dihedral potential, and extend it to include sheet structure.
- 
+
+
+** highly Welcome collaboration to develop transferable foldable Martini protein model!!! **
 
 
 ### Reference 

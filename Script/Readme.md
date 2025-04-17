@@ -1,4 +1,4 @@
-**Tutorial:**
+## Tutorial:
 
 1. Polyply generate the topology without backbone dipole moment. 
 `polyply gen_params` is used to generate the topology with protein sequence fasta input by `-seqf`(or protein sequence string by `-seq`). `-f` flag provides the force field. `polyply gen_coords` is used to generate a random IDR coordinates file by random walking with only IDR topology provided (`-p` flag). `-box` here defines the box of coordinates, `-o` defines the coordinates file name.
@@ -10,7 +10,7 @@ polyply gen_params -name p53TAD -f aminoacids-FoldableMartini3.ff -seqf p53.fast
 python add_dipole.py p53TAD
 ```
 
-**Feature**
+## Feature
 
 ***Backbone dipole monment representation***
 
